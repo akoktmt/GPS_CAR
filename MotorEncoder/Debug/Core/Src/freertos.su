@@ -1,0 +1,4 @@
+../Core/Src/freertos.c:111:6:MX_FREERTOS_Init	8	static
+../Core/Src/freertos.c:159:6:Control_PIDTask	56	static
+../Core/Src/freertos.c:191:6:CAN_RecTask	16	static
+../Core/Src/freertos.c:211:6:CAN_TransmitTask	56	static
